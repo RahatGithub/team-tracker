@@ -1,0 +1,27 @@
+.info{
+    padding: 20px 120px;
+    background-color: #202044;
+    color: white;
+}
+
+.basic-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    padding: 0px 20px;
+}
+
+.team-image img{
+    height: 160px;
+}
+
+.social-media-section{
+    display: flex;
+    margin: 20px 45%;
+}
+
+.social-media-section img{
+    height: 50px;
+    cursor: pointer;
+}

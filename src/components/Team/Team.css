@@ -1,0 +1,22 @@
+img{
+    height: 70px;
+}
+
+.team{
+    border: none;
+    border-radius: 4px;
+    box-shadow: 5px 5px 10px black;
+    width: 250px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.team button{
+    color: white;
+    background-color: #5A45E2;
+    border: none;
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+}
