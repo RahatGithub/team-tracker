@@ -1,5 +1,5 @@
 import './TeamDetails.css'
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useContext} from 'react';
 import { useParams } from 'react-router-dom';
 import { TeamContext } from '../../App';
 import maleImg from '../../images/male.png'
